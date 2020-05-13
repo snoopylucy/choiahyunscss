@@ -1,0 +1,21 @@
+html,
+body{
+    height:100%;
+    font-family:"Open sans", sans-serif;
+    color: purple;
+}
+h1 {
+    font-size:50px;
+}
+h2 {
+    font-size:40px;
+}
+
+p {
+    font-size:13px;
+    color: black;
+    line-height:2;
+}
+img {
+    max-width: 40%;
+}
